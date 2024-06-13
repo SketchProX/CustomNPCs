@@ -1,10 +1,10 @@
 [![poggit-state](https://poggit.pmmp.io/shield.state/CustomNPCs)](https://poggit.pmmp.io/p/CustomNPCs)
 [![poggit-api](https://poggit.pmmp.io/shield.api/CustomNPCs)](https://poggit.pmmp.io/p/CustomNPCs)
 [![poggit-downloads](https://poggit.pmmp.io/shield.dl.total/CustomNPCs)](https://poggit.pmmp.io/p/CustomNPCs)
-![GitHub stars](https://img.shields.io/github/stars/HighestDreams/CustomNPCs?style=plastic&color=gold)
-![GitHub forks](https://img.shields.io/github/forks/HighestDreams/CustomNPCs?style=plastic&color=dark_green)
-![GitHub repo size](https://img.shields.io/github/repo-size/HighestDreams/CustomNPCs?style=plastic&color=dark_green)
-![GitHub last commit](https://img.shields.io/github/last-commit/HighestDreams/CustomNPCs?color=dark_green&style=plastic)
+![GitHub stars](https://img.shields.io/github/stars/SketchProX/CustomNPCs?style=plastic&color=gold)
+![GitHub forks](https://img.shields.io/github/forks/SketchProX/CustomNPCs?style=plastic&color=dark_green)
+![GitHub repo size](https://img.shields.io/github/repo-size/SketchProX/CustomNPCs?style=plastic&color=dark_green)
+![GitHub last commit](https://img.shields.io/github/last-commit/SketchProX/CustomNPCs?color=dark_green&style=plastic)
 
 ## IMRTANT
 This plugin is for api 3.x.x and if you want to download api 4.x.x, Then here is the link:
